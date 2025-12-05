@@ -33,6 +33,6 @@
         "device_id": "ab801b4296311e9a",
         "key": "ajgor",
         "expirydate": "06-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
